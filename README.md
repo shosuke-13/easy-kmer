@@ -1,4 +1,4 @@
-# easy kmer
+# easy-kmer
 ### What is K-mer?
 K-mers are short substrings of DNA or RNA sequences that are used to analyze patterns and characteristics. They provide insights into repetitive elements, conserved regions, and sequence motifs. K-mers are valuable tools in bioinformatics for tasks like sequence analysis and genome assembly, revealing important information about the structure and function of genetic material.
 
