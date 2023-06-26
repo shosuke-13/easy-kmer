@@ -12,6 +12,7 @@ pip install easy-kmer
 ```
 
 ### Example 
+KMer(sequence (str): The DNA or RNA sequence, k (int): The length of the k-mers) : Constructor for the KMer class. It takes two parameters.<br>
 Here's an example of how to use easy_kmer:
 ```python:example.py
 from easy_kmer import Kmer
@@ -35,8 +36,6 @@ reverse_complement = Kmer(sequence, k).reverse_complement()
 print(reverse_complement)
 >>> CGATCGATCGAT
 ```
-
-- KMer(sequence (str): The DNA or RNA sequence, k (int): The length of the k-mers) : Constructor for the KMer class. It takes two parameters:
 
 - get_kmers() : Retrieves all the k-mers in the sequence.
 
