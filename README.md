@@ -2,8 +2,8 @@
 ### What is K-mer?
 K-mers are short substrings of DNA or RNA sequences that are used to analyze patterns and characteristics. They provide insights into repetitive elements, conserved regions, and sequence motifs. K-mers are valuable tools in bioinformatics for tasks like sequence analysis and genome assembly, revealing important information about the structure and function of genetic material.
 
-### easy_kmer
-easy_kmer is a lightweight Python library for working with k-mers in bioinformatics. It provides simple and intuitive methods to extract k-mers from DNA or RNA sequences, count their occurrences, find the most frequent k-mers, and compute the reverse complement of a sequence.
+### easy-kmer
+easy-kmer is a lightweight Python library for working with k-mers in bioinformatics. It provides simple and intuitive methods to extract k-mers from DNA or RNA sequences, count their occurrences, find the most frequent k-mers, and compute the reverse complement of a sequence.
 
 ### Install
 You can install easy_kmer using pip:
